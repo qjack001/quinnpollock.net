@@ -1,0 +1,16 @@
+name: Quinn Pollock
+
+description: Quinn Pollock
+
+url: "https://quinnpollock.net"
+
+permalink: /:categories/:title/
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+baseurl:
+
+include:
+  - _redirects
